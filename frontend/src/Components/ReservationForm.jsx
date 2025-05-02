@@ -100,7 +100,7 @@ const ReservationForm = () => {
           <div>
             <div>
               <h3 className=' text-lg font-bold mb-2'>Stay Connected</h3>
-              <div className=' flex gap-4 '>
+              <div className=' flex gap-4 cursor-pointer'>
                 <FaFacebook className="text-4xl text-red-500"/>
                 <FaTwitter className="text-4xl text-red-500"/>
                 <FaInstagram className="text-4xl text-red-500"/>
